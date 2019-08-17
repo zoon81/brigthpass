@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "main.h": "c",
+        "nrf24l01.h": "c",
+        "io.h": "c",
+        "delay.h": "c",
+        "uart.h": "c",
+        "spi.h": "c",
+        "interrupt.h": "c",
+        "lcd.h": "c",
+        "itoa.h": "c",
+        "iom128.h": "c",
+        "inttypes.h": "c",
+        "sevseg.h": "c",
+        "keymatrix.h": "c",
+        "rs485.h": "c",
+        "twi.h": "c",
+        "adc.h": "c",
+        "rtc.h": "c",
+        "usbdrv.h": "c"
+    }
+}

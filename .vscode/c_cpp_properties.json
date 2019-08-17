@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "osx",
+            "includePath": [
+                "/usr/local/CrossPack-AVR/avr/include",
+                "${workspaceFolder}",
+                "${workspaceFolder}/usbdrv"
+            ],
+            "defines": [
+                "__AVR_ATmega88__"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "browse": {
+                "path": [
+                    "/usr/local/CrossPacsk-AVR/avr/include",
+                    "${workspaceFolder}"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
